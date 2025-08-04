@@ -1,0 +1,90 @@
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T17:41:44.557Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T17:41:44.559Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T17:41:44.559Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T17:52:08.337Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T17:52:08.340Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T17:52:08.340Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T17:53:35.541Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T17:53:35.544Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T17:53:35.544Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T17:54:45.276Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T17:54:45.278Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T17:54:45.278Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T18:00:46.303Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T18:00:46.305Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T18:00:46.305Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T18:09:50.527Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T18:09:50.530Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T18:09:50.530Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"client","role":"admin","service":"module-transfer-server","timestamp":"2025-08-02T18:12:11.976Z","userId":"50ba52739bbd5683361e6d97a81b2f83"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T18:13:09.757Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T18:13:09.759Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T18:13:09.759Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"client","role":"admin","service":"module-transfer-server","timestamp":"2025-08-02T18:14:38.980Z","userId":"d10729a1342398ba351b9894c3ea32f7"}
+{"adminId":"d10729a1342398ba351b9894c3ea32f7","adminName":"client","ip":"::1","level":"info","message":"Admin requested user list","service":"module-transfer-server","timestamp":"2025-08-02T18:14:46.550Z","userCount":1}
+{"ip":"::1","level":"info","message":"Module download started","module_name":"module","name":"client","service":"module-transfer-server","timestamp":"2025-08-02T18:15:06.753Z","userId":"d10729a1342398ba351b9894c3ea32f7"}
+{"fileSize":107,"ip":"::1","level":"info","message":"Module downloaded successfully","module_name":"module","name":"client","service":"module-transfer-server","timestamp":"2025-08-02T18:15:06.758Z","userId":"d10729a1342398ba351b9894c3ea32f7"}
+{"lastHeartbeat":1754158870017,"level":"info","message":"Heartbeat timeout - user disconnected","name":"client","service":"module-transfer-server","timestamp":"2025-08-02T18:21:25.027Z","userId":"d10729a1342398ba351b9894c3ea32f7"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-02T18:21:58.132Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-02T18:21:58.134Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-02T18:21:58.134Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"client","role":"user","service":"module-transfer-server","timestamp":"2025-08-02T18:32:11.643Z","userId":"359e0477627b00d6c1963955660c62e7"}
+{"duration":181664,"level":"info","message":"Session timeout - user inactive","name":"client","service":"module-transfer-server","timestamp":"2025-08-02T18:35:13.306Z","userId":"359e0477627b00d6c1963955660c62e7"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:34:32.242Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:34:32.244Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:34:32.244Z"}
+{"ip":"::1","level":"warn","message":"Failed login attempt","name":"kyle","role":"admin","service":"module-transfer-server","timestamp":"2025-08-04T14:34:45.363Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"kyle","role":"admin","service":"module-transfer-server","timestamp":"2025-08-04T14:34:58.948Z","userId":"a5d5ffe3db24dba225b255f8bafa01a1"}
+{"ip":"::1","level":"info","message":"Module download started","module_name":"module","name":"kyle","service":"module-transfer-server","timestamp":"2025-08-04T14:35:06.186Z","userId":"a5d5ffe3db24dba225b255f8bafa01a1"}
+{"fileSize":107,"ip":"::1","level":"info","message":"Module downloaded successfully","module_name":"module","name":"kyle","service":"module-transfer-server","timestamp":"2025-08-04T14:35:06.189Z","userId":"a5d5ffe3db24dba225b255f8bafa01a1"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"testuser","role":"user","service":"module-transfer-server","timestamp":"2025-08-04T14:39:24.791Z","userId":"264c4599fef2f1b1c9f15b14cd47d173"}
+{"lastHeartbeat":1754318364791,"level":"info","message":"Heartbeat timeout - user disconnected","name":"testuser","service":"module-transfer-server","timestamp":"2025-08-04T14:39:57.333Z","userId":"264c4599fef2f1b1c9f15b14cd47d173"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:41:28.610Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:41:28.612Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:41:28.612Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:42:11.654Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:42:11.656Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:42:11.656Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:44:30.029Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:44:30.032Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:44:30.032Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:45:23.653Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:45:23.655Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:45:23.655Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:45:56.970Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:45:56.972Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:45:56.973Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:47:09.552Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:47:09.554Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:47:09.555Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:58:10.552Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:58:10.555Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:58:10.555Z"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T14:59:40.457Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T14:59:40.461Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T14:59:40.461Z"}
+{"level":"info","message":"Secure module transfer server running on port 3001","service":"module-transfer-server","timestamp":"2025-08-04T15:06:40.831Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T15:06:40.838Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T15:06:40.838Z"}
+{"level":"info","message":"Secure module transfer server running on port 3001","service":"module-transfer-server","timestamp":"2025-08-04T15:06:50.308Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T15:06:50.311Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T15:06:50.311Z"}
+{"level":"info","message":"Secure module transfer server running on port 8080","service":"module-transfer-server","timestamp":"2025-08-04T15:08:36.797Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T15:08:36.800Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T15:08:36.800Z"}
+{"level":"info","message":"Secure module transfer server running on port 8080","service":"module-transfer-server","timestamp":"2025-08-04T15:08:46.939Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T15:08:46.941Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T15:08:46.941Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"testuser","role":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:10:17.736Z","userId":"aca8d8af060e82220ff007eee910db88"}
+{"lastHeartbeat":1754320217736,"level":"info","message":"Heartbeat timeout - user disconnected","name":"testuser","service":"module-transfer-server","timestamp":"2025-08-04T15:10:51.979Z","userId":"aca8d8af060e82220ff007eee910db88"}
+{"level":"info","message":"Secure module transfer server running on port 1200","service":"module-transfer-server","timestamp":"2025-08-04T15:10:58.183Z"}
+{"level":"info","message":"JWT Secret: your-super...","service":"module-transfer-server","timestamp":"2025-08-04T15:10:58.186Z"}
+{"level":"info","message":"Encryption Key: your-32-ch...","service":"module-transfer-server","timestamp":"2025-08-04T15:10:58.186Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"user","role":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:11:31.609Z","userId":"63a06722d5d6bd9e64515427654c1055"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"admin","role":"admin","service":"module-transfer-server","timestamp":"2025-08-04T15:11:58.905Z","userId":"cde0de235ccde6569782b30328b6e5cb"}
+{"lastHeartbeat":1754320291609,"level":"info","message":"Heartbeat timeout - user disconnected","name":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:03.201Z","userId":"63a06722d5d6bd9e64515427654c1055"}
+{"ip":"::1","level":"warn","message":"Module download attempt by unknown user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:17.150Z","userId":"63a06722d5d6bd9e64515427654c1055"}
+{"ip":"::1","level":"info","message":"User logged in successfully","name":"user","role":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:26.096Z","userId":"333c5e2d9a4a9f9f99bcb372d279116e"}
+{"ip":"::1","level":"info","message":"Module download started","module_name":"module","name":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:30.100Z","userId":"333c5e2d9a4a9f9f99bcb372d279116e"}
+{"fileSize":107,"ip":"::1","level":"info","message":"Module downloaded successfully","module_name":"module","name":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:30.102Z","userId":"333c5e2d9a4a9f9f99bcb372d279116e"}
+{"lastHeartbeat":1754320346096,"level":"info","message":"Heartbeat timeout - user disconnected","name":"user","service":"module-transfer-server","timestamp":"2025-08-04T15:12:58.221Z","userId":"333c5e2d9a4a9f9f99bcb372d279116e"}
