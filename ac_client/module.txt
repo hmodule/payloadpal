@@ -1,1 +1,0 @@
-"This is a secret message that can only be shared with certain clients via the server.\n\nMessage: ILY BB GORL"
